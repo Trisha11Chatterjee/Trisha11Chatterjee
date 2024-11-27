@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Trisha
 
-<!--
-**Trisha11Chatterjee/Trisha11Chatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me: 👽
 I am a EI undergraduate at National Institute of Technology, Rourkela , India.

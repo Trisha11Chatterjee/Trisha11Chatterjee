@@ -2,7 +2,7 @@
 
 
 About Me: 👽
-I am a EI undergraduate at National Institute of Technology, Rourkela , India.
+I am a EI graduate from National Institute of Technology, Rourkela , India.
 I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
 
 I am currently working on something cool. :shipit:
